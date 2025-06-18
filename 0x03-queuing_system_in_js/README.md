@@ -9,3 +9,5 @@
 -How to build a basic Express app interacting with a Redis server
 -How to the build a basic Express app interacting with a Redis server and queue
 ## Additional Tasks
+Make sure to use promisify with Redis
+Make sure to use the await/async keyword to get the value from Redis
